@@ -1,3 +1,3 @@
-[My personal page](https://rundef.com/)
+[My personal website](https://rundef.com/)
 
 [My blog](https://tradingfacts.net/)
