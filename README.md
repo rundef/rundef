@@ -1,2 +1,2 @@
-[My portfolio](https://rundef.com/)
-[My blog](https://quant.engineering/)
+- 🌐 [My Portfolio](https://rundef.com/)
+- 🧠 [My Blog](https://quant.engineering/)
