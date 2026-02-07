@@ -1,2 +1,1 @@
-- 🌐 [My Portfolio](https://rundef.com/)
-- 🧠 [My Blog](https://quant.engineering/)
+Hello world 👋
